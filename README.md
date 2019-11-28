@@ -190,5 +190,10 @@ On exécute le programme avec la commande suivante :
 	
 >![Alt Image Text](https://image.noelshack.com/fichiers/2019/44/4/1572534258-huffman.png "Exemple")
 
+### Conclusion
+
+Réaliser ce projet m'a pris beaucoup de temps étant donné certaines difficultés en algorithmie. Le projet m'a tout de même  plus et m'a permis de découvrir la notion d'arbre binaire ainsi que la manipulation des bits.
 
 Auteur : *César VENZAC*
+
+Tuteurs : *Nicolas VILMAIN et Vincent KHERBACHE*
